@@ -1,0 +1,13 @@
+local opts = vim.opt
+opts.number = true
+opts.relativenumber = true
+opts.shiftwidth = 2
+opts.tabstop = 2
+opts.expandtab = true
+opts.smartindent = true
+opts.ignorecase = true
+opts.splitbelow = true
+opts.splitright = true
+opts.undofile = true
+opts.background = ""
+opts.clipboard = "unnamedplus"
